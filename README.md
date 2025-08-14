@@ -13,6 +13,8 @@ Exploración y análisis de un dataset con información sobre autos usados. Incl
 ### 3. Análisis Numérico con NumPy aplicado a datos de ventas
 Ejercicio introductorio al uso de NumPy para procesamiento de datos numéricos. Se trabajan conceptos como medias, medianas, desviación estándar y manejo de valores nulos en un dataset de ventas.
 
+### 4. Análisis Multivariado y Storytelling de Recursos Humanos
+El objetivo es explorar cómo diferentes características se relacionan con la deserción laboral (Attrition) y construir un modelo analítico, visual e interpretativo que pueda servir para presentar hallazgos a un equipo de RRHH o dirección.
 ---
 
 ## 🔧 Tecnologías utilizadas
