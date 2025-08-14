@@ -15,6 +15,7 @@ Ejercicio introductorio al uso de NumPy para procesamiento de datos numéricos. 
 
 ### 4. Análisis Multivariado y Storytelling de Recursos Humanos
 El objetivo es explorar cómo diferentes características se relacionan con la deserción laboral (Attrition) y construir un modelo analítico, visual e interpretativo que pueda servir para presentar hallazgos a un equipo de RRHH o dirección.
+
 ---
 
 ## 🔧 Tecnologías utilizadas
